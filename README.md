@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karim Karim Sherif</h1>
+<h1 align="center">Hi 👋, I'm Karim </h1>
 <h3 align="center">A passionate Student and a Geek!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimsherif2&label=Profile%20views&color=0e75b6&style=flat" alt="karimsherif2" /> </p>
